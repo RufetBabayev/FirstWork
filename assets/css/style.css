@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bgcolour-orange {
+  background-color: orange;
+}
+.bgcolour-black {
+  background-color: black;
+}
+.headBox {
+  height: 60px;
+}
+.navBox {
+  padding: 20px;
+  margin: 40px 0 10px 0;
+  display: inline-block;
+  width: 183px;
+}
+
+.sectionLeft {
+  display: inline-block;
+}
+
+.divLeft {
+  height: 643px;
+  margin: 15px 0;
+  width: 550px;
+}
+.sectionMiddle {
+  display: inline-block;
+}
+.divMiddle {
+  height: 314px;
+  margin: 15px 0 15px 15px;
+  width: 704px;
+}
+.asideRight {
+  display: inline-block;
+}
+.divRight {
+  height: 117px;
+  margin: 15px 0 15px 15px;
+  width: 397px;
+}
+.footerBox {
+  height: 98px;
+}
